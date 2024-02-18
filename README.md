@@ -10,3 +10,5 @@ Just extract the executable into the game folder.
 
 **With Mod**
 ![dvn9ciutljd91](https://github.com/Kronyx/Horizon-Zero-Dawn-Ultrawide-Fix-Mod/assets/13527331/df69c5b6-81cc-4418-95a1-23f66e5806e9)
+
+**I need someone with a 32:9 monitor to do 3840 x 1080 and others.**
